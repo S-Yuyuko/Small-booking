@@ -1,0 +1,99 @@
+title,genre,director,release_year,duration
+Inception,Sci-Fi,Christopher Nolan,2010,148
+The Dark Knight,Action,Christopher Nolan,2008,152
+Interstellar,Sci-Fi,Christopher Nolan,2014,169
+The Matrix,Sci-Fi,Lana Wachowski,1999,136
+Fight Club,Drama,David Fincher,1999,139
+Pulp Fiction,Crime,Quentin Tarantino,1994,154
+Forrest Gump,Drama,Robert Zemeckis,1994,142
+The Godfather,Crime,Francis Ford Coppola,1972,175
+The Shawshank Redemption,Drama,Frank Darabont,1994,142
+The Social Network,Drama,David Fincher,2010,120
+Titanic,Romance,James Cameron,1997,195
+The Lord of the Rings: The Return of the King,Fantasy,Peter Jackson,2003,201
+Gladiator,Action,Ridley Scott,2000,155
+Avatar,Sci-Fi,James Cameron,2009,162
+The Avengers,Action,Joss Whedon,2012,143
+The Lion King,Animation,Rob Minkoff,1994,88
+Jurassic Park,Sci-Fi,Steven Spielberg,1993,127
+Star Wars: Episode IV - A New Hope,Sci-Fi,George Lucas,1977,121
+The Silence of the Lambs,Thriller,Jonathan Demme,1991,118
+Schindler's List,Drama,Steven Spielberg,1993,195
+The Usual Suspects,Crime,Bryan Singer,1995,106
+Saving Private Ryan,Drama,Steven Spielberg,1998,169
+The Green Mile,Drama,Frank Darabont,1999,189
+Se7en,Thriller,David Fincher,1995,127
+The Sixth Sense,Thriller,M. Night Shyamalan,1999,107
+Braveheart,Drama,Mel Gibson,1995,178
+Goodfellas,Crime,Martin Scorsese,1990,146
+American Beauty,Drama,Sam Mendes,1999,122
+The Departed,Crime,Martin Scorsese,2006,151
+Memento,Thriller,Christopher Nolan,2000,113
+Whiplash,Drama,Damien Chazelle,2014,106
+Mad Max: Fury Road,Action,George Miller,2015,120
+The Dark Knight Rises,Action,Christopher Nolan,2012,164
+12 Angry Men,Drama,Sidney Lumet,1957,96
+The Prestige,Drama,Christopher Nolan,2006,130
+The Grand Budapest Hotel,Comedy,Wes Anderson,2014,99
+Inglourious Basterds,War,Quentin Tarantino,2009,153
+Django Unchained,Western,Quentin Tarantino,2012,165
+The Revenant,Drama,Alejandro González Iñárritu,2015,156
+The Wolf of Wall Street,Comedy,Martin Scorsese,2013,180
+The Hateful Eight,Western,Quentin Tarantino,2015,168
+Gone Girl,Thriller,David Fincher,2014,149
+Argo,Thriller,Ben Affleck,2012,120
+Birdman,Drama,Alejandro González Iñárritu,2014,119
+La La Land,Romance,Damien Chazelle,2016,128
+Moonlight,Drama,Barry Jenkins,2016,111
+Parasite,Thriller,Bong Joon Ho,2019,132
+Joker,Crime,Todd Phillips,2019,122
+The Irishman,Crime,Martin Scorsese,2019,209
+1917,War,Sam Mendes,2019,119
+Blade Runner 2049,Sci-Fi,Denis Villeneuve,2017,164
+Bohemian Rhapsody,Biography,Bryan Singer,2018,134
+A Star Is Born,Romance,Bradley Cooper,2018,136
+Once Upon a Time in Hollywood,Comedy,Quentin Tarantino,2019,161
+Spider-Man: Into the Spider-Verse,Animation,Bob Persichetti,2018,117
+Black Panther,Action,Ryan Coogler,2018,134
+Guardians of the Galaxy,Action,James Gunn,2014,121
+Doctor Strange,Sci-Fi,Scott Derrickson,2016,115
+Wonder Woman,Action,Patty Jenkins,2017,141
+Aquaman,Action,James Wan,2018,143
+Captain Marvel,Action,Anna Boden,2019,123
+Avengers: Endgame,Action,Anthony Russo,2019,181
+Avengers: Infinity War,Action,Anthony Russo,2018,149
+Thor: Ragnarok,Action,Taika Waititi,2017,130
+Iron Man,Action,Jon Favreau,2008,126
+Man of Steel,Action,Zack Snyder,2013,143
+Justice League,Action,Zack Snyder,2017,120
+Batman v Superman: Dawn of Justice,Action,Zack Snyder,2016,151
+Logan,Action,James Mangold,2017,137
+Deadpool,Action,Tim Miller,2016,108
+Deadpool 2,Action,David Leitch,2018,119
+X-Men: Days of Future Past,Sci-Fi,Bryan Singer,2014,132
+X-Men: Apocalypse,Sci-Fi,Bryan Singer,2016,144
+The Incredibles,Animation,Brad Bird,2004,115
+The Incredibles 2,Animation,Brad Bird,2018,118
+Toy Story,Animation,John Lasseter,1995,81
+Toy Story 3,Animation,Lee Unkrich,2010,103
+Finding Nemo,Animation,Andrew Stanton,2003,100
+Finding Dory,Animation,Andrew Stanton,2016,97
+Inside Out,Animation,Pete Docter,2015,95
+Up,Animation,Pete Docter,2009,96
+Coco,Animation,Lee Unkrich,2017,105
+WALL-E,Animation,Andrew Stanton,2008,98
+Ratatouille,Animation,Brad Bird,2007,111
+The Lion King,Animation,Jon Favreau,2019,118
+Aladdin,Animation,Guy Ritchie,2019,128
+Beauty and the Beast,Animation,Bill Condon,2017,129
+Frozen,Animation,Chris Buck,2013,102
+Frozen II,Animation,Chris Buck,2019,103
+Moana,Animation,Ron Clements,2016,107
+Zootopia,Animation,Byron Howard,2016,108
+Tangled,Animation,Nathan Greno,2010,100
+Big Hero 6,Animation,Don Hall,2014,102
+Wreck-It Ralph,Animation,Rich Moore,2012,101
+Ralph Breaks the Internet,Animation,Rich Moore,2018,112
+Brave,Animation,Mark Andrews,2012,93
+Monsters, Inc.,Animation,Pete Docter,2001,92
+Monsters University,Animation,Dan Scanlon,2013,104
